@@ -1,10 +1,3 @@
-"""
-    TODO
-
-    -Logica de compra de ruas ============(ESTOU AQUI)============
-        -compra de ruas personalizada para cada personalidade
-
-"""
 import random
 
 tabuleiro = {
